@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98fa82862d08d354cb5dc9ace6352fd0, type: 3}
+  m_Name: FiveClubs
+  m_EditorClassIdentifier: 
+  gameSprite: {fileID: 21300000, guid: d0e626a1e8e53a14e908b9c98e23b8f6, type: 3}
+  cardsuit: 0
+  cardNumber: 3
+  cardPrefab: {fileID: 14266837350846585, guid: 9d79033ce0ee51e42a6c58859a34d1bf, type: 3}
